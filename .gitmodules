@@ -7,3 +7,6 @@
 [submodule "vim-less"]
 	path = vim-less
 	url = https://github.com/groenewege/vim-less.git
+[submodule "vim-rust"]
+	path = vim-rust
+	url = git://github.com/wting/rust.vim.git
